@@ -335,4 +335,4 @@ def MMAS(alfa, beta, ro, tezinska_matrica, m, N, M):
 
         if broj_iteracija == N:
             break
-    return x_min, v_min 
+    return x_min, v_min
